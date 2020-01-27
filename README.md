@@ -1,7 +1,7 @@
 # YAY
 FPV Racing Flying Wing
 
-wingspan 800 mm
+wingspan 800 mm, simplyfied Clark-Y airfoil
 
 [CG Calculation](http://winglib.com/wing/yay-fpv-racing-wing)
 
