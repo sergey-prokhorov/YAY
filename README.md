@@ -12,3 +12,5 @@ electronics:
 - camera, VTX, flight controller, LC filter, UBEC etc.
 
 [Building page](https://github.com/sergey-prokhorov/YAY/wiki/Building)
+
+all printable 3D parts also available on [thingiverse.com](https://www.thingiverse.com/thing:4137610)
